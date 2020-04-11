@@ -1,2 +1,2 @@
-docker pull alpine
+echo 'hello world'
 
