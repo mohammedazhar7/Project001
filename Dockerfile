@@ -1,2 +1,2 @@
-FROM alpine
+docker pull alpine
 
